@@ -22,7 +22,7 @@ public class Practice {
 
 		// PLEASEEEEEEEEEEEEEEEEEEEE
 		
-		// COOOLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+		// BRUHHHH
 		
 	}
 }
